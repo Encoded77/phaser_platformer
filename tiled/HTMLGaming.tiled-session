@@ -1,0 +1,113 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/thomas/test.tmx": {
+            "scale": 0.3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1663.3333333333335,
+                "y": 1638.3333333333335
+            }
+        },
+        "/Users/thomas/testTileSet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kenny_1bit_pack.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kenny_1bit_transparent.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2.38
+        },
+        "level1.tmx": {
+            "scale": 1.02,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 511.27450980392155,
+                "y": 355.3921568627451
+            }
+        },
+        "level1.tmx#kenny_1bit_pack": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx#kenny_1bit_transparent": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level2.tmx": {
+            "scale": 1.0916,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1028.3070721876147,
+                "y": 284.4448515939905
+            }
+        },
+        "level2.tmx#kenny_1bit_pack": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level2.tmx#kenny_1bit_transparent": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level3.tmx": {
+            "scale": 1.2935,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 226.13065326633162,
+                "y": 231.54232701971392
+            }
+        },
+        "level3.tmx#kenny_1bit_pack": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level3.tmx#kenny_1bit_transparent": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "map.height": 25,
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "level1.tmx",
+        "level2.tmx",
+        "level3.tmx"
+    ],
+    "project": "HTMLGaming.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level3.tmx",
+        "level2.tmx",
+        "level1.tmx",
+        "kenny_1bit_transparent.tsx",
+        "kenny_1bit_pack.tsx",
+        "/Users/thomas/overworld.tmx",
+        "/Users/thomas/testTileSet.tsx",
+        "/Users/thomas/test.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 2,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
